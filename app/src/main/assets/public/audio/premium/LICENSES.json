@@ -1,0 +1,5 @@
+{
+  "menu": {"file":"color-rings-menu.m4a","title":"REQUIRED","creator":"REQUIRED","license":"REQUIRED","source":"REQUIRED","licenseFile":"REQUIRED","sha256":"REQUIRED","redistributionConfirmed":false},
+  "classic": {"file":"color-rings-classic.m4a","title":"REQUIRED","creator":"REQUIRED","license":"REQUIRED","source":"REQUIRED","licenseFile":"REQUIRED","sha256":"REQUIRED","redistributionConfirmed":false},
+  "mastery": {"file":"color-rings-mastery.m4a","title":"REQUIRED","creator":"REQUIRED","license":"REQUIRED","source":"REQUIRED","licenseFile":"REQUIRED","sha256":"REQUIRED","redistributionConfirmed":false}
+}

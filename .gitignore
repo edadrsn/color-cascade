@@ -1,4 +1,20 @@
-node_modules/
-dist/
+# Standalone Android: bundled game assets and native libraries MUST be tracked.
+.gradle/
+.idea/
+**/build/
+*.iml
+local.properties
+*.apk
+*.aab
+*.aar
+*.dex
+*.class
 *.log
+*.jks
+*.keystore
+*.p12
+*.p8
+*.mobileprovision
+.externalNativeBuild/
+.cxx/
 .DS_Store

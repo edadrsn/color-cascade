@@ -1,0 +1,22 @@
+{
+	"appId": "com.colorrings.game",
+	"appName": "Color Rings",
+	"webDir": "dist",
+	"backgroundColor": "#eaf7ff",
+	"loggingBehavior": "debug",
+	"android": {
+		"allowMixedContent": false,
+		"minWebViewVersion": 107
+	},
+	"ios": {
+		"contentInset": "never",
+		"preferredContentMode": "mobile"
+	},
+	"plugins": {
+		"SystemBars": {
+			"insetsHandling": "css",
+			"initialViewportFitValueHint": "cover",
+			"hidden": false
+		}
+	}
+}
